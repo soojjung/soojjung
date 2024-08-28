@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soojin-jung-313191284/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soojin-jung-313191284/) 
 
 ### 📊 GitHub Stats
 ![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) 
