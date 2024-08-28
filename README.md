@@ -23,6 +23,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soojin-jung-313191284/) 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sojjung3@gmail.com)](mailto:sojjung3@gmail.com)
 
+### 🏫 Education
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
 ### 📊 GitHub Stats
 ![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) 
