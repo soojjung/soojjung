@@ -10,6 +10,7 @@ I also hope to be a reliable presence—both technically and emotionally—for m
 Back when I was job hunting, I studied alone and often felt isolated. But one of the best parts of being in tech is how easy it is to connect with developers, even across different companies.<br/>
 I enjoy talking about code, products, work, and all sorts of random topics 😀<br/>
 If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
+<!-- 
 <br />
 안녕하세요, Product Engineer 정수진입니다!<br/>
 소프트웨어 개발 경력은 이제 만 3년이 되었고, 저는 "재밌게 오래오래 제품을 만들고 싶은 사람" 입니다.<br/>
@@ -19,6 +20,7 @@ If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
 개발 얘기, 제품 얘기, 일 얘기, 잡다한 얘기 나누는거 모두 좋아합니다 😀 <br/>
 혹시 저와 커피챗을 하고 싶다면 자유롭게 연락주세요! ☕️ <br/>
 <br />
+-->
 
 ### 💻 Tech Stack
 #### Frontend
@@ -48,21 +50,20 @@ If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soojin-jung-313191284/) 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sojjung3@gmail.com)](mailto:sojjung3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soojin.1px@gmail.com)](mailto:soojin.1px@gmail.com)
 
-<!--
-### 🏫 Education
+
+<!-- ### 🏫 Education
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 -->
 
 ### 📊 GitHub Stats
-![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) 
+<!-- ![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord) -->
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
 
 
