@@ -1,6 +1,6 @@
 ## Hi, I'm Soojin!
 👩🏻‍💻 <b>Product Engineer</b> building user-centered products end-to-end<br/>
-👩🏻‍🎓 Studied Applied Mathematics and Statistics at Stony Brook University, New York.<br/>
+👩🏻‍🎓 Studied Applied Mathematics and Statistics & Economics at Stony Brook University, New York.<br/>
 
 ### 👋 Introduce
 Hello! I'm Soojin Jung, a product engineer.<br/>
@@ -10,6 +10,10 @@ I also hope to be a reliable presence—both technically and emotionally—for m
 Back when I was job hunting, I studied alone and often felt isolated. But one of the best parts of being in tech is how easy it is to connect with developers, even across different companies.<br/>
 I enjoy talking about code, products, work, and all sorts of random topics 😀<br/>
 If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
+
+You can also find me here:<br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/soo-jin-jung/)<br/>
+✍️ [Medium](https://medium.com/@sojjung3)<br/>
 <!-- 
 <br />
 안녕하세요, Product Engineer 정수진입니다!<br/>
@@ -62,7 +66,7 @@ If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
 </a>
 -->
 
-### 📊 GitHub Stats
+### 📊 Leetcode Stats
 <!-- ![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) -->
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
