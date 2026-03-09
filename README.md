@@ -1,30 +1,30 @@
 ## Hi, I'm Soojin!
-👩🏻‍💻 <b>Product Engineer</b> building user-centered products end-to-end<br/>
-👩🏻‍🎓 Studied Applied Mathematics and Statistics & Economics at Stony Brook University, New York.<br/>
+👩🏻‍💻 Product Engineer with 3+ years of experience building user-centered software  
+👩🏻‍🎓 Applied Mathematics and Statistics & Economics @ Stony Brook University (New York)  
+🎯 Preparing for a Master’s in Computer Science
 
-### 👋 Introduce
-Hello! I'm Soojin Jung, a product engineer.<br/>
-I've been working in software for 3 years, and I’m someone who wants to enjoy building products for a long, long time.<br/>
-I care not only about writing clean code, but also about making the product better for users—through small improvements, fast iterations, and thoughtful collaboration.<br/>
-I also hope to be a reliable presence—both technically and emotionally—for my teammates, mentors, and juniors.<br/>
-Back when I was job hunting, I studied alone and often felt isolated. But one of the best parts of being in tech is how easy it is to connect with developers, even across different companies.<br/>
-I enjoy talking about code, products, work, and all sorts of random topics 😀<br/>
-If you'd like to grab a coffee chat with me, feel free to reach out! ☕️<br/>
+I enjoy building software systems that combine engineering, data, and real-world product impact.
+My interests lie in machine learning systems, large-scale data systems, and distributed computing.
 
-You can also find me here:<br/>
-🔗 [LinkedIn](https://www.linkedin.com/in/soo-jin-jung/)<br/>
-✍️ [Medium](https://medium.com/@sojjung3)<br/>
-<!-- 
-<br />
-안녕하세요, Product Engineer 정수진입니다!<br/>
-소프트웨어 개발 경력은 이제 만 3년이 되었고, 저는 "재밌게 오래오래 제품을 만들고 싶은 사람" 입니다.<br/>
-단순히 기능을 구현하는 것뿐만 아니라, 사용자가 더 편하게 쓰도록 개선하고 빠르게 실험하는 과정 자체를 좋아합니다.<br/>
-그리고 함께 일하는 동료들과 선후배들에게 "기술적으로, 심리적으로" 든든한 존재가 되어주고 싶습니다.<br/>
-취준생때는 외롭게 공부했었는데, 개발직군은 다른 사람들과 자유롭게 소통할 수 있다는게 큰 장점인 것 같아요!<br/>
-개발 얘기, 제품 얘기, 일 얘기, 잡다한 얘기 나누는거 모두 좋아합니다 😀 <br/>
-혹시 저와 커피챗을 하고 싶다면 자유롭게 연락주세요! ☕️ <br/>
-<br />
--->
+
+### 🔬 Research & Technical Interests
+- Machine Learning Systems
+- Distributed Systems
+- Data Infrastructure
+- Optimization & Algorithms
+- Recommendation Systems
+
+
+### 📫 Contact
+LinkedIn  
+[linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
+
+Medium  
+[medium.com/@sojjung3](https://medium.com/@sojjung3)
+
+Email  
+[sojjung3@gmail.com](mailto:sojjung3@gmail.com)
+
 
 ### 💻 Tech Stack
 
@@ -55,22 +55,36 @@ You can also find me here:<br/>
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+
+### 🧠 LeetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
+
+<!--
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&layout=compact&theme=dracula)
+-->
+
+<!-- 
+<br />
+안녕하세요, Product Engineer 정수진입니다!<br/>
+소프트웨어 개발 경력은 이제 만 3년이 되었고, 저는 "재밌게 오래오래 제품을 만들고 싶은 사람" 입니다.<br/>
+단순히 기능을 구현하는 것뿐만 아니라, 사용자가 더 편하게 쓰도록 개선하고 빠르게 실험하는 과정 자체를 좋아합니다.<br/>
+그리고 함께 일하는 동료들과 선후배들에게 "기술적으로, 심리적으로" 든든한 존재가 되어주고 싶습니다.<br/>
+취준생때는 외롭게 공부했었는데, 개발직군은 다른 사람들과 자유롭게 소통할 수 있다는게 큰 장점인 것 같아요!<br/>
+개발 얘기, 제품 얘기, 일 얘기, 잡다한 얘기 나누는거 모두 좋아합니다 😀 <br/>
+혹시 저와 커피챗을 하고 싶다면 자유롭게 연락주세요! ☕️ <br/>
+<br />
+-->
+
+<!--
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soojin-jung-313191284/) 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soojin.1px@gmail.com)](mailto:soojin.1px@gmail.com)
-
+-->
 
 <!-- ### 🏫 Education
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
 </a>
 -->
-
-### 📊 Leetcode Stats
-<!-- ![Soojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula) -->
-
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
-
-
