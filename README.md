@@ -59,10 +59,11 @@ Email
 ### 🧠 LeetCode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
 
+
 <!--
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&layout=compact&theme=dracula)
+![[GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung)](https://github.com/soojjung/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&layout=compact&theme=dracula)
 -->
 
 <!-- 
