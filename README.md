@@ -1,29 +1,46 @@
-## Hi, I'm Soojin!
-👩🏻‍💻 Product Engineer with 3+ years of experience building user-centered software  
-👩🏻‍🎓 Applied Mathematics and Statistics & Economics @ Stony Brook University (New York)  
-🎯 Preparing for a Master’s in Computer Science
+# Hi, I'm Soojin 👋
 
-I enjoy building software systems that combine engineering, data, and real-world product impact.
-My interests lie in machine learning systems, large-scale data systems, and distributed computing.
+Product Engineer with 3+ years of experience building user-centered applications and scalable software systems.
+
+Incoming M.S. in Computer Engineering @ NYU Tandon School of Engineering, interested in machine learning systems, distributed infrastructure, and large-scale backend engineering.
+
+I enjoy building systems at the intersection of product, data, and infrastructure.
+
+
+## 🧑🏻‍💻 About Me
+- 🎓 B.S. in Applied Mathematics & Statistics and Economics  
+  @ Stony Brook University (New York)
+- 💼 3+ years of experience as a Product / Frontend Engineer
+- 🎓 Incoming M.S. in Computer Engineering  
+  @ NYU Tandon School of Engineering
+- 🌏 Based in Seoul → Moving to New York for graduate studies
+- 📚 Currently studying distributed systems, backend engineering, and AI infrastructure
 
 
 ### 🔬 Research & Technical Interests
 - Machine Learning Systems
 - Distributed Systems
-- Data Infrastructure
-- Optimization & Algorithms
+- AI Infrastructure
 - Recommendation Systems
+- Optimization & Algorithms
 
 
-### 📫 Contact
-LinkedIn  
-[linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
+## 🧪 Experience
+### Product Engineering
+Built and maintained production web applications focused on:
+- Frontend architecture
+- API integration
+- State management
+- Performance optimization
+- Data-driven product improvements
 
-Medium  
-[medium.com/@sojjung3](https://medium.com/@sojjung3)
-
-Email  
-[sojjung3@gmail.com](mailto:sojjung3@gmail.com)
+### Backend & AI Engineering Training
+Currently strengthening backend and computer science fundamentals through:
+- Java / Spring Boot
+- Database systems
+- Algorithms & data structures
+- System architecture
+- AI application development
 
 
 ### 💻 Tech Stack
@@ -36,11 +53,10 @@ Email
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
-![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 
 #### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,8 +72,27 @@ Email
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### 🧠 LeetCode
+## 🧠 Problem Solving
+
+- Practicing algorithms & data structures on LeetCode
+- Studying CS fundamentals for systems and infrastructure engineering
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
+
+
+## ✨ Career Goal
+Interested in building scalable backend systems and AI infrastructure for real-world products.
+
+
+### 📫 Contact
+LinkedIn  
+[linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
+
+Medium  
+[medium.com/@sojjung3](https://medium.com/@sojjung3)
+
+Email  
+[sojjung3@gmail.com](mailto:sojjung3@gmail.com)
 
 
 <!--
