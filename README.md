@@ -1,10 +1,9 @@
 # Hi, I'm Soojin 👋
-
-Product Engineer with 3+ years of experience building user-centered applications and scalable software systems.
+Software Engineer with 3+ years of experience building user-centered applications and scalable software systems.
 
 Incoming M.S. in Computer Engineering @ NYU Tandon School of Engineering, interested in machine learning systems, distributed infrastructure, and large-scale backend engineering.
 
-I enjoy building systems at the intersection of product, data, and infrastructure.
+I enjoy building scalable systems that bridge software engineering, data, and infrastructure.
 
 
 ## 🧑🏻‍💻 About Me
@@ -15,6 +14,7 @@ I enjoy building systems at the intersection of product, data, and infrastructur
   @ NYU Tandon School of Engineering
 - 🌏 Based in Seoul → Moving to New York for graduate studies
 - 📚 Currently studying distributed systems, backend engineering, and AI infrastructure
+- 📄 Resume: https://www.sooya.dev/cv.html
 
 
 ### 🔬 Research & Technical Interests
@@ -84,15 +84,11 @@ Currently strengthening backend and computer science fundamentals through:
 Interested in building scalable backend systems and AI infrastructure for real-world products.
 
 
-### 📫 Contact
-LinkedIn  
-[linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
-
-Medium  
-[medium.com/@sojjung3](https://medium.com/@sojjung3)
-
-Email  
-[sojjung3@gmail.com](mailto:sojjung3@gmail.com)
+## 📫 Contact
+- Resume: https://www.sooya.dev/cv.html
+- LinkedIn: [linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
+- Medium: [medium.com/@sojjung3](https://medium.com/@sojjung3)
+- Email: [sojjung3@gmail.com](mailto:sojjung3@gmail.com)
 
 
 <!--
