@@ -26,7 +26,7 @@ I enjoy building scalable systems that bridge software engineering, data, and in
 
 
 ## 🧪 Experience
-### Product Engineering
+### Frontend Engineering
 Built and maintained production web applications focused on:
 - Frontend architecture
 - API integration
