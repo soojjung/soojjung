@@ -7,11 +7,11 @@ I enjoy building scalable systems that bridge software engineering, data, and in
 
 
 ## 🧑🏻‍💻 About Me
-- 🎓 B.S. in Applied Mathematics & Statistics and Economics  
-  @ Stony Brook University (New York)
-- 💼 3+ years of experience as a Product / Frontend Engineer
+- 💼 3+ years of experience as a Frontend Engineer
 - 🎓 Incoming M.S. in Computer Engineering  
   @ NYU Tandon School of Engineering
+- 🎓 B.S. in Applied Mathematics & Statistics and Economics  
+  @ Stony Brook University (New York)
 - 🌏 Based in Seoul → Moving to New York for graduate studies
 - 📚 Currently studying distributed systems, backend engineering, and AI infrastructure
 - 📄 Resume: https://www.sooya.dev/cv.html
