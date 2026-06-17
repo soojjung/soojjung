@@ -1,23 +1,21 @@
 # Hi, I'm Soojin 👋
-Software Engineer with 3+ years of experience building user-centered applications and scalable software systems.
+Software Engineer with 3+ years of experience building production software and user-centered applications.
 
-Incoming M.S. in Computer Engineering @ NYU Tandon School of Engineering, interested in machine learning systems, distributed infrastructure, and large-scale backend engineering.
+Incoming M.S. in Computer Engineering at NYU Tandon School of Engineering.
 
-I enjoy building scalable systems that bridge software engineering, data, and infrastructure.
+Currently focused on backend engineering, distributed systems, machine learning infrastructure, and scalable software design.
 
 
-## 🧑🏻‍💻 About Me
+## About Me
 - 💼 3+ years of experience as a Frontend Engineer
-- 🎓 Incoming M.S. in Computer Engineering  
-  @ NYU Tandon School of Engineering
-- 🎓 B.S. in Applied Mathematics & Statistics and Economics  
-  @ Stony Brook University (New York)
-- 🌏 Based in Seoul → Moving to New York for graduate studies
-- 📚 Currently studying distributed systems, backend engineering, and AI infrastructure
+- 🎓 Incoming M.S. in Computer Engineering @ NYU Tandon
+- 🎓 B.S. in Applied Mathematics & Statistics and Economics @ Stony Brook University
+- 🌏 Seoul → Moving to New York
+- 📚 Building toward backend and infrastructure-focused software engineering
 - 📄 Resume: https://www.sooya.dev/cv.html
 
 
-### 🔬 Research & Technical Interests
+## Interests
 - Machine Learning Systems
 - Distributed Systems
 - AI Infrastructure
@@ -25,7 +23,7 @@ I enjoy building scalable systems that bridge software engineering, data, and in
 - Optimization & Algorithms
 
 
-## 🧪 Experience
+## Experience
 ### Frontend Engineering
 Built and maintained production web applications focused on:
 - Frontend architecture
@@ -43,6 +41,42 @@ Currently strengthening backend and computer science fundamentals through:
 - AI application development
 
 
+## Tech Stack
+TypeScript · React · Next.js · Python · Java · Spring Boot · FastAPI · PostgreSQL · Docker · AWS
+
+
+## Problem Solving
+- Practicing algorithms & data structures on LeetCode
+- Studying CS fundamentals for systems and infrastructure engineering
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
+
+
+## Contact
+- LinkedIn: [linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
+- Medium: [medium.com/@sojjung3](https://medium.com/@sojjung3)
+- Email: [sojjung3@gmail.com](mailto:sojjung3@gmail.com)
+
+
+<!--
+### 📊 GitHub Stats
+![[GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung)](https://github.com/soojjung/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&layout=compact&theme=dracula)
+-->
+
+<!-- 
+<br />
+안녕하세요, Product Engineer 정수진입니다!<br/>
+소프트웨어 개발 경력은 이제 만 3년이 되었고, 저는 "재밌게 오래오래 제품을 만들고 싶은 사람" 입니다.<br/>
+단순히 기능을 구현하는 것뿐만 아니라, 사용자가 더 편하게 쓰도록 개선하고 빠르게 실험하는 과정 자체를 좋아합니다.<br/>
+그리고 함께 일하는 동료들과 선후배들에게 "기술적으로, 심리적으로" 든든한 존재가 되어주고 싶습니다.<br/>
+취준생때는 외롭게 공부했었는데, 개발직군은 다른 사람들과 자유롭게 소통할 수 있다는게 큰 장점인 것 같아요!<br/>
+개발 얘기, 제품 얘기, 일 얘기, 잡다한 얘기 나누는거 모두 좋아합니다 😀 <br/>
+혹시 저와 커피챗을 하고 싶다면 자유롭게 연락주세요! ☕️ <br/>
+<br />
+-->
+
+<!--
 ### 💻 Tech Stack
 
 #### Frontend
@@ -70,43 +104,6 @@ Currently strengthening backend and computer science fundamentals through:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-
-## 🧠 Problem Solving
-
-- Practicing algorithms & data structures on LeetCode
-- Studying CS fundamentals for systems and infrastructure engineering
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/sojjung3?theme=nord)
-
-
-## ✨ Career Goal
-Interested in building scalable backend systems and AI infrastructure for real-world products.
-
-
-## 📫 Contact
-- Resume: https://www.sooya.dev/cv.html
-- LinkedIn: [linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
-- Medium: [medium.com/@sojjung3](https://medium.com/@sojjung3)
-- Email: [sojjung3@gmail.com](mailto:sojjung3@gmail.com)
-
-
-<!--
-### 📊 GitHub Stats
-![[GitHub stats](https://github-readme-stats.vercel.app/api?username=soojjung)](https://github.com/soojjung/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soojjung&layout=compact&theme=dracula)
--->
-
-<!-- 
-<br />
-안녕하세요, Product Engineer 정수진입니다!<br/>
-소프트웨어 개발 경력은 이제 만 3년이 되었고, 저는 "재밌게 오래오래 제품을 만들고 싶은 사람" 입니다.<br/>
-단순히 기능을 구현하는 것뿐만 아니라, 사용자가 더 편하게 쓰도록 개선하고 빠르게 실험하는 과정 자체를 좋아합니다.<br/>
-그리고 함께 일하는 동료들과 선후배들에게 "기술적으로, 심리적으로" 든든한 존재가 되어주고 싶습니다.<br/>
-취준생때는 외롭게 공부했었는데, 개발직군은 다른 사람들과 자유롭게 소통할 수 있다는게 큰 장점인 것 같아요!<br/>
-개발 얘기, 제품 얘기, 일 얘기, 잡다한 얘기 나누는거 모두 좋아합니다 😀 <br/>
-혹시 저와 커피챗을 하고 싶다면 자유롭게 연락주세요! ☕️ <br/>
-<br />
 -->
 
 <!--
