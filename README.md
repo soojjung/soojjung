@@ -12,7 +12,7 @@ Currently focused on backend engineering, distributed systems, machine learning 
 - 🎓 B.S. in Applied Mathematics & Statistics and Economics @ Stony Brook University
 - 🌏 Seoul → Moving to New York
 - 📚 Building toward backend and infrastructure-focused software engineering
-- 📄 Resume: https://www.sooya.dev/cv.html
+- 📄 Resume: [sooya.dev/cv](https://www.sooya.dev/cv.html)
 
 
 ## Interests
@@ -53,9 +53,10 @@ TypeScript · React · Next.js · Python · Java · Spring Boot · FastAPI · Po
 
 
 ## Contact
+- Email: [sojjung3@gmail.com](mailto:sojjung3@gmail.com)
 - LinkedIn: [linkedin.com/in/soo-jin-jung](https://www.linkedin.com/in/soo-jin-jung/)
 - Medium: [medium.com/@sojjung3](https://medium.com/@sojjung3)
-- Email: [sojjung3@gmail.com](mailto:sojjung3@gmail.com)
+
 
 
 <!--
