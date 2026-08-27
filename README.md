@@ -10,7 +10,6 @@ Currently focused on backend engineering, distributed systems, machine learning 
 - 💼 3+ years of experience as a Frontend Engineer
 - 🎓 Incoming M.S. in Computer Engineering @ NYU Tandon
 - 🎓 B.S. in Applied Mathematics & Statistics and Economics @ Stony Brook University
-- 🌏 Seoul → Moving to New York
 - 📚 Building toward backend and infrastructure-focused software engineering
 - 📄 Resume: [sooya.dev/cv](https://www.sooya.dev/cv.html)
 
